@@ -1,0 +1,9 @@
+
+# Keras and TensorFlow dependencies
+keras==2.6.0
+tensorflow==2.6.0
+
+# Other required packages
+numpy==1.19.5
+scipy==1.7.1
+imageio==2.14.0
